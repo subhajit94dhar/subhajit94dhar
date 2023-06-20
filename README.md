@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Subhajit, a Computer Science Engineer with almost 5 years of experience in ETL/ELT , Data warehousing, Data modeling and Database Development.
-- 👀 I’m interested in Data Engineering, Data Analytics, Big Data
+- 👋 Hi, I’m Subhajit, a Computer Science Engineer with almost 7 years of experience in ETL/ELT, Data Engineering, Data warehousing, Data Modeling, and Database Development 
+- 👀 I’m interested in Data Engineering, Big Data related work
 - 📫 Reach me at https://www.linkedin.com/in/subhajit-dhar-sd1994/
 
 <!---
